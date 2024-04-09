@@ -1,0 +1,9 @@
+ Note:-
+ 
+EDA assignment -2 we have got Spotify dataset which has missing data. I have raised ticket connect to support team discuss the problem with them.
+ 
+So,they had provided solution to download dataset from kaggle
+and use thise dataset.I have done with kaggle spotify dataset.
+ 
+Discussion of support team person Name:- Mr.Akshay GP
+ 
